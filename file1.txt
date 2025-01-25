@@ -1,2 +1,4 @@
-Это первый файл.
-Приветствую
+def hello_world():
+    print("Hello, Git!")
+    
+hello_world()
